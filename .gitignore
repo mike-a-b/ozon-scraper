@@ -1,0 +1,8 @@
+.venv
+./node_modules
+__pycache__/
+test_screen.png
+.swp
+.idea/
+.vscode
+ozon_error.png

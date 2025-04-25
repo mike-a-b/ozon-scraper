@@ -1,0 +1,4 @@
+{
+  "error": "Message: \nStacktrace:\n#0 0x55ca916e3cea <unknown>\n#1 0x55ca911945f0 <unknown>\n#2 0x55ca911e5a33 <unknown>\n#3 0x55ca911e5c21 <unknown>\n#4 0x55ca91234274 <unknown>\n#5 0x55ca9120b68d <unknown>\n#6 0x55ca91231660 <unknown>\n#7 0x55ca9120b433 <unknown>\n#8 0x55ca911d7ea3 <unknown>\n#9 0x55ca911d8b01 <unknown>\n#10 0x55ca916a8b3b <unknown>\n#11 0x55ca916aca21 <unknown>\n#12 0x55ca9168fc32 <unknown>\n#13 0x55ca916ad594 <unknown>\n#14 0x55ca91673eef <unknown>\n#15 0x55ca916d1d98 <unknown>\n#16 0x55ca916d1f76 <unknown>\n#17 0x55ca916e2b36 <unknown>\n#18 0x7f365e1c1aa4 <unknown>\n#19 0x7f365e24ec3c <unknown>\n",
+  "duration_seconds": 33.1
+}
